@@ -21,7 +21,7 @@
     }
 
     // Get the input from the user.
-    let input = prompt("What do you want your commit history to say?", "send newts").toUpperCase();
+    let input = prompt("What do you want your commit history to say?", "hire me plz").toUpperCase();
 
     // Initialize the font.
     let font = {
